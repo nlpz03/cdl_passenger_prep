@@ -1,0 +1,6 @@
+public/
+  _redirects
+src/
+App.js
+package.json
+...
